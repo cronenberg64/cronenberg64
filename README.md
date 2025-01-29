@@ -45,7 +45,7 @@
 
 
 
-<img align="right" height="150" src="https://github.com/cronenberg64/cronenberg64/blob/main/dog-cachorro.gif"  />
+<img align="right" height="100" src="https://github.com/cronenberg64/cronenberg64/blob/main/dog-cachorro.gif"  />
 
 ## 🌐 Socials:
 
