@@ -19,7 +19,7 @@
 
 ## 💻 Tech Stack
 
-<div align="left">
+<div align="left" style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -43,8 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
 </div>
 
-<div align="right">
-  <img src="https://github.com/cronenberg64/cronenberg64/blob/main/dog-cachorro.gif" width="100" height="100" style="border-radius: 10px;">
+<div style="margin-right: auto;">
+  <img src="https://github.com/cronenberg64/cronenberg64/blob/main/dog-cachorro.gif" width="80" height="80" style="border-radius: 10px;">
 </div>
 
 ## 🌐 Socials:
