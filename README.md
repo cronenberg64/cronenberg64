@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="800" src="https://github.com/cronenberg64/cronenberg64/blob/main/IMG_6787.JPG"  />
+  <img src="https://github.com/cronenberg64/cronenberg64/blob/main/banner.png"  />
 </div>
 
 ## 
