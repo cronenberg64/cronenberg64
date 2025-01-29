@@ -43,9 +43,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
 </div>
 
-
-
-<img align="right" height="100" src="https://github.com/cronenberg64/cronenberg64/blob/main/dog-cachorro.gif"  />
+<div align="right">
+  <img src="https://github.com/cronenberg64/cronenberg64/blob/main/dog-cachorro.gif" width="100" height="100" style="border-radius: 10px;">
+</div>
 
 ## 🌐 Socials:
 
