@@ -9,9 +9,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cronenberg64&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" height="125" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cronenberg64&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false" height="125" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cronenberg64&theme=monokai&radius=0&area=true" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=cronenberg64&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cronenberg64&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false" height="180" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cronenberg64&theme=monokai&radius=0&area=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
