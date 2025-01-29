@@ -44,7 +44,7 @@
 </div>
 
 <div align="right">
-  <img src="https://github.com/cronenberg64/cronenberg64/blob/main/dog-cachorro.gif" width="100" height="100" style="border-radius: 10px;">
+  <img src="https://github.com/cronenberg64/cronenberg64/blob/main/dog-cachorro.gif" width="120" height="120" style="border-radius: 10px;">
 </div>
 
 ## 🌐 Socials:
