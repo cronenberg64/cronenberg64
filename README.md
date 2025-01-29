@@ -42,7 +42,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/dog-cachorro-gif-2460749576506159475"  />
+<img align="right" height="150" src="https://github.com/cronenberg64/cronenberg64/blob/main/dog-cachorro.gif"  />
 
 ###
 
