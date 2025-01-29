@@ -43,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
 </div>
 
-<div style="margin-right: auto;">
+<div style="margin-left: auto;">
   <img src="https://github.com/cronenberg64/cronenberg64/blob/main/dog-cachorro.gif" width="80" height="80" style="border-radius: 10px;">
 </div>
 
