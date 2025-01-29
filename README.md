@@ -2,18 +2,14 @@
   <img src="https://github.com/cronenberg64/cronenberg64/blob/main/banner.png"  />
 </div>
 
-## 
-
-<h2 align="left">Hi, I'm Jonathan Setiawan 👍
-<br>Information System Science & Engineering Student | AI, ML, and Data Science Enthusiast</h2>
-
-### 👨‍💻 About Me  
+## 👨‍💻 About Me  
 - 🎓 I’m a student majoring in **Information System Science & Engineering**  
 - 🌱 Currently learning **AI, Machine Learning, and Data Science**  
 - 📌 Interested in **LLMs, NLPs, and Robotics**  
 - 📕 I love reading books, working out, and watching anime in my spare time
+- 📷 Banner photo taken at Tanigawa Bridge, Kobe, Japan by me!
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cronenberg64&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" height="180" alt="stats graph"  />
@@ -21,7 +17,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cronenberg64&theme=monokai&radius=0&area=true" height="300" alt="activity-graph graph"  />
 </div>
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -51,7 +47,7 @@
 
 <img align="right" height="150" src="https://github.com/cronenberg64/cronenberg64/blob/main/dog-cachorro.gif"  />
 
-### 🌐 Socials:
+## 🌐 Socials:
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
@@ -61,7 +57,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cronenberg64&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 
