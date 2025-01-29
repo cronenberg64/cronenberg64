@@ -3,7 +3,7 @@
 </div>
 
 ## 👨‍💻 About Me  
-- 🎓 I’m a student majoring in **Information System Science & Engineering**  
+- 🎓 I’m a student majoring in **Information System Science & Engineering** at **Ristumeikan University** 
 - 🌱 Currently learning **AI, Machine Learning, and Data Science**  
 - 📌 Interested in **LLMs, NLPs, and Robotics**  
 - 📕 I love reading books, working out, and watching anime in my spare time
