@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/cronenberg64/cronenberg64/blob/main/banner.png"  />
+  <img src="https://github.com/cronenberg64/cronenberg64/blob/main/github%20readme%20banner.png"  />
 </div>
 
 ## 👨‍💻 About Me  
