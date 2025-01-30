@@ -46,7 +46,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cronenberg64&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" height="180" alt="GitHub Stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronenberg64&layout=compact&theme=monokai&hide_border=false" height="180" alt="Top Languages"  />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cronenberg64&theme=monokai&radius=0&area=true" height="300" alt="Activity Graph"  />
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cronenberg64&theme=monokai&radius=0&area=true" height="300" alt="activity-graph graph" />
 </div>
 
 ## ⚡ Recent Activity:
