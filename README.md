@@ -7,7 +7,7 @@
 - 🌱 Currently learning **AI, Machine Learning, and Data Science**  
 - 📌 Interested in **LLMs, NLPs, and Robotics**  
 - 📕 I love reading books, working out, and watching anime in my spare time
-- 📷 Banner photo taken at Tanigawa Bridge, Kobe, Japan by me!
+- 📷 Banner photo taken at Tanigawa Bridge, Kobe, Japan by me
 
 ## 📊 GitHub Stats:
 
