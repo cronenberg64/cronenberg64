@@ -51,10 +51,8 @@
 
 ## ⚡ Recent Activity:
 
-<p align="left">
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-</p>
 
 ## 🌐 Socials:
 
