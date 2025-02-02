@@ -22,8 +22,6 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" height="30" alt="Swift logo" />
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="30" alt="NumPy logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="30" alt="OpenCV logo" />
@@ -51,8 +49,10 @@
 
 ## ⚡ Recent Activity:
 
+<p align="left">
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+</p>
 
 ## 🌐 Socials:
 
