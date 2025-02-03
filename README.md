@@ -47,14 +47,6 @@
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cronenberg64&theme=monokai&radius=0&area=true" height="300" alt="activity-graph graph" />
 </div>
 
-## ⚡ Recent Activity:
-
-<p align="left">
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-</p>
-
 ## 🌐 Socials:
 
 <div align="left">
