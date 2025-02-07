@@ -9,7 +9,7 @@
 - 📕 I love reading books, working out, and watching anime in my spare time
 - 📷 Banner photo taken at Tanigawa Bridge, Kobe, Japan by me
 
-## 💻 Tech Stack
+## 💻 Tech Stack and Tools
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="Python logo" />
