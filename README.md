@@ -42,6 +42,8 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="30" alt="Figma logo" />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/iucons/renpy/renpy-original.svg" height="30" alt="renPy logo" />
+  <img width="12" />
 </div>
 
 <div align="right">
