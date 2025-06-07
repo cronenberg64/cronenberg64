@@ -2,12 +2,12 @@
   <img src="https://github.com/cronenberg64/cronenberg64/blob/main/github%20readme%20banner.png"  />
 </div>
 
-## 👨‍💻 About Me  
-- 🎓 I’m a student majoring in **Information System Science & Engineering** at **Ristumeikan University** 
-- 🌱 Currently learning **AI, Machine Learning, and Data Science**  
-- 📌 Interested in **Data Science, Machine Learning, and Robotics**  
-- 📕 I love reading books, working out, and watching anime in my spare time
-- 📷 Banner photo taken at Tanigawa Bridge, Kobe, Japan by me
+## About Me  
+- I’m a student majoring in **Information System Science & Engineering** at **Ristumeikan University** 
+- Currently learning **AI, Machine Learning, and Data Science**  
+- Interested in **Data Science, Machine Learning, and Robotics**  
+- I love reading books, working out, and watching anime in my spare time
+- Banner photo taken at Tanigawa Bridge, Kobe, Japan by me
 
 ## 💻 Tech Stack and Tools
 
