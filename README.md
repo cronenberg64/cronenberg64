@@ -3,7 +3,7 @@
 </div>
 
 ## About Me  
-- I’m a student majoring in **Information System Science & Engineering** at **Ristumeikan University** 
+- I'm a student majoring in **Information System Science & Engineering** at **Ristumeikan University** 
 - Currently learning **AI, Machine Learning, and Data Science**  
 - Interested in **Data Science, Machine Learning, and Robotics**  
 - I love reading books, working out, and watching anime in my spare time
@@ -42,7 +42,25 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="30" alt="Figma logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/renpy/renpy-original.svg" height="30" alt="renPy logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/renpy/renpy-original.svg" 
+  height="30" alt="renPy logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" alt="Git logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="30" alt="Firebase logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" height="30" alt="Vercel logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="30" alt="Spring Boot logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30" alt="React.js logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30" alt="React Native logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS logo" />
   <img width="12" />
 </div>
 
