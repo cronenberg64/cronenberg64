@@ -91,6 +91,6 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cronenberg64&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=cronenberg64&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 
