@@ -91,6 +91,6 @@
 </div>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=cronenberg64&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cronenberg64&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
