@@ -91,6 +91,6 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cronenberg64&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=cronenberg64&theme=darklover&no-frame=false&no-bg=true&margin-w=4)
 
 
