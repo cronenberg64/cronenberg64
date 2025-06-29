@@ -10,14 +10,12 @@
 - Banner photo taken at Tanigawa Bridge, Kobe, Japan by me
 
 ## 🔭 I'm currently working on
-- [ ] AI-powered defect detection system
-- [ ] Cross-platform mobile app development
-- [ ] Robotics simulation environments
-
-## 🚀 Recent Projects
-- **[KADD-AI](https://github.com/cronenberg64/KADD-AI)** - AI-powered steel defect detection
-- **[SnapRecipe](https://github.com/cronenberg64/SnapRecipe)** - AI cooking recipe generator
-- **[Robot-Motion-Planner](https://github.com/cronenberg64/Robot-Motion-Planner)** - Natural language robot control
+- **[KADD-AI](https://github.com/cronenberg64/KADD-AI)** - AI-powered steel defect detection system with KPI calculation and automated reporting
+- **[SnapRecipe](https://github.com/cronenberg64/SnapRecipe)** - Cross-platform mobile app that generates cooking recipes from food photos and social media links
+- **[Robot-Motion-Planner](https://github.com/cronenberg64/Robot-Motion-Planner)** - Natural language to MoveIt trajectory converter for robotics
+- **[Ichiba-Box](https://github.com/cronenberg64/Ichiba-Box)** - Comprehensive B2B platform connecting local businesses with customers in Japan
+- **[PTG-Forge](https://github.com/cronenberg64/PTG-Forge)** - AI-powered ROS2/Gazebo simulation environment generator
+- **[Bloom Business Hub](https://github.com/cronenberg64/Bloom-Business-Hub)** - AI-powered business operations platform for small businesses
 
 ## 🛠️ Tech Stack & Tools
 
@@ -99,10 +97,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cronenberg64&theme=monokai&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cronenberg64&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 ## 🌐 Socials:
