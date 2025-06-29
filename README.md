@@ -8,6 +8,8 @@
 - Love reading books, working out, and watching anime in my spare time
 - Banner photo taken at Tanigawa Bridge, Kobe, Japan by me
 
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./My_Developer-Master-Resume.pdf)
+
 ## 🌐 Portfolio
 Check out my interactive portfolio website showcasing my projects and experience: **[My_Portfolio](https://jonathan-setiawan-portfolio.netlify.app)**
 
