@@ -9,6 +9,9 @@
 - I love reading books, working out, and watching anime in my spare time
 - Banner photo taken at Tanigawa Bridge, Kobe, Japan by me
 
+## 🌐 Portfolio
+Check out my interactive portfolio website showcasing my projects and experience: **[Portfolio](https://my-portfolio-git-main-cronenbergs-projects.vercel.app)**
+
 ## 🔭 I'm currently working on
 - **[KADD-AI](https://github.com/cronenberg64/KADD-AI)** - AI-powered steel defect detection system with KPI calculation and automated reporting
 - **[SnapRecipe](https://github.com/cronenberg64/SnapRecipe)** - Cross-platform mobile app that generates cooking recipes from food photos and social media links
