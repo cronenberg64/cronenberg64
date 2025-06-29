@@ -12,7 +12,7 @@
 - You can visit my interactive portfolio website showcasing my projects and experience by clicking the button below
 
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-Visit-blueviolet?style=for-the-badge&logo=about-dot-me)](https://jonathan-setiawan-portfolio.netlify.app)
-- You can download my dev-focused master resume by clicking the button below
+- You can view and download my dev-focused master resume by clicking the button below
 
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./My_Developer-Master-Resume.pdf)
 
