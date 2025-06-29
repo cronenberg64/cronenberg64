@@ -9,6 +9,8 @@
 - Banner photo taken at Tanigawa Bridge, Kobe, Japan by me
 
 ## 🌐 Portfolio
+- You can visit my interactive portfolio website showcasing my projects and experience by clicking the button below
+
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-Visit-blueviolet?style=for-the-badge&logo=about-dot-me)](https://jonathan-setiawan-portfolio.netlify.app)
 - You can download my dev-focused master resume by clicking the button below
 
