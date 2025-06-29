@@ -3,10 +3,9 @@
 </div>
 
 ## About Me  
-- I'm a student majoring in **Information System Science & Engineering** at **Ristumeikan University** 
-- Currently learning **AI, Machine Learning, and Data Science**  
-- Interested in **Data Science, Machine Learning, and Robotics**  
-- I love reading books, working out, and watching anime in my spare time
+- I'm a student majoring in **Information System Science & Engineering** at **Ritsumeikan University** 
+- I'm interested in **AI/ML, Computer Vision, and Robotics** 
+- Love reading books, working out, and watching anime in my spare time
 - Banner photo taken at Tanigawa Bridge, Kobe, Japan by me
 
 ## 🌐 Portfolio
