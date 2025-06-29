@@ -43,7 +43,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Robotics & Simulation
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-000000?style=for-the-badge&logo=gazebo&logoColor=white)
 ![RViz](https://img.shields.io/badge/RViz-000000?style=for-the-badge&logo=rviz&logoColor=white)
 ![MoveIt](https://img.shields.io/badge/MoveIt-000000?style=for-the-badge&logo=moveit&logoColor=white)
