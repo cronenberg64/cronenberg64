@@ -10,7 +10,8 @@
 
 ## 🌐 Portfolio
 Check out my interactive portfolio website showcasing my projects and experience: **[My_Portfolio](https://jonathan-setiawan-portfolio.netlify.app)**
-You can download my dev-focused master resume by clicking the button next to this [![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./My_Developer-Master-Resume.pdf)
+You can download my dev-focused master resume by clicking the button below 
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./My_Developer-Master-Resume.pdf)
 
 ## 🔭 I'm currently working on
 - **[KADD-AI](https://github.com/cronenberg64/KADD-AI)** - AI-powered steel defect detection system with KPI calculation and automated reporting
