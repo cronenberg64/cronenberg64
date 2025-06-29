@@ -9,6 +9,16 @@
 - I love reading books, working out, and watching anime in my spare time
 - Banner photo taken at Tanigawa Bridge, Kobe, Japan by me
 
+## 🔭 I'm currently working on
+- [ ] AI-powered defect detection system
+- [ ] Cross-platform mobile app development
+- [ ] Robotics simulation environments
+
+## 🚀 Recent Projects
+- **[KADD-AI](https://github.com/cronenberg64/KADD-AI)** - AI-powered steel defect detection
+- **[SnapRecipe](https://github.com/cronenberg64/SnapRecipe)** - AI cooking recipe generator
+- **[Robot-Motion-Planner](https://github.com/cronenberg64/Robot-Motion-Planner)** - Natural language robot control
+
 ## 🛠️ Tech Stack & Tools
 
 ### Programming Languages
@@ -41,8 +51,10 @@
 ![Genkit](https://img.shields.io/badge/Genkit-000000?style=for-the-badge&logo=genkit&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Robotics & Simulation
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-000000?style=for-the-badge&logo=gazebo&logoColor=white)
 ![RViz](https://img.shields.io/badge/RViz-000000?style=for-the-badge&logo=rviz&logoColor=white)
 ![MoveIt](https://img.shields.io/badge/MoveIt-000000?style=for-the-badge&logo=moveit&logoColor=white)
@@ -52,6 +64,13 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-00ADD9?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Game Development
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white)
@@ -70,18 +89,20 @@
 - **AI/ML Applications** - Image Classification, Object Detection
 - **B2B Applications** - Digital Storefronts, Research Collaboration Platforms
 
-<div align="right">
-  <div style="border-radius: 10px; overflow: hidden; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/cronenberg64/cronenberg64/main/dog-cachorro.gif" width="120" height="120">
-  </div>
-</div>
-
 ## 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cronenberg64&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" height="180" alt="GitHub Stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronenberg64&layout=compact&theme=monokai&hide_border=false" height="180" alt="Top Languages"  />
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cronenberg64&theme=monokai&radius=0&area=true" height="300" alt="activity-graph graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cronenberg64&theme=monokai&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=cronenberg64&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 ## 🌐 Socials:
@@ -102,5 +123,11 @@
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=cronenberg64&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div align="right">
+  <div style="border-radius: 10px; overflow: hidden; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/cronenberg64/cronenberg64/main/dog-cachorro.gif" width="120" height="120">
+  </div>
+</div>
 
 
