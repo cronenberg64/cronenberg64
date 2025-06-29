@@ -10,7 +10,7 @@
 - Banner photo taken at Tanigawa Bridge, Kobe, Japan by me
 
 ## 🌐 Portfolio
-Check out my interactive portfolio website showcasing my projects and experience: **[Portfolio](https://my-portfolio-git-main-cronenbergs-projects.vercel.app)**
+Check out my interactive portfolio website showcasing my projects and experience: **[My_Portfolio](https://my-portfolio-git-main-cronenbergs-projects.vercel.app)**
 
 ## 🔭 I'm currently working on
 - **[KADD-AI](https://github.com/cronenberg64/KADD-AI)** - AI-powered steel defect detection system with KPI calculation and automated reporting
