@@ -19,10 +19,13 @@
 ## 🔭 I'm currently working on
 - **[KADD-AI](https://github.com/cronenberg64/KADD-AI)** - AI-powered steel defect detection system with KPI calculation and automated reporting
 - **[SnapRecipe](https://github.com/cronenberg64/SnapRecipe)** - Cross-platform mobile app that generates cooking recipes from food photos and social media links
-- **[Robot-Motion-Planner](https://github.com/cronenberg64/Robot-Motion-Planner)** - Natural language to MoveIt trajectory converter for robotics
 - **[Ichiba-Box](https://github.com/cronenberg64/Ichiba-Box)** - Comprehensive B2B platform connecting local businesses with customers in Japan
-- **[PTG-Forge](https://github.com/cronenberg64/PTG-Forge)** - AI-powered ROS2/Gazebo simulation environment generator
 - **[Bloom Business Hub](https://github.com/cronenberg64/Bloom-Business-Hub)** - AI-powered business operations platform for small businesses
+
+## 🚀 Featured Projects
+- **[Robot-Motion-Planner](https://github.com/cronenberg64/Robot-Motion-Planner)** ([Live Site](https://robot-motion-planner.netlify.app/)) - Natural language to MoveIt trajectory converter for robotics
+- **[PTG-Forge](https://github.com/cronenberg64/PTG-Forge)** ([Live Site](https://ptg-forge.netlify.app/)) - AI-powered ROS2/Gazebo simulation environment generator
+- **[Kensaku](https://github.com/cronenberg64/Kensaku)** ([Live Site](https://kensaku.netlify.app/)) - Academic research collaboration platform
 
 ## 🛠️ Tech Stack & Tools
 
@@ -72,8 +75,6 @@
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-00ADD9?style=for-the-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
