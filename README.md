@@ -16,16 +16,19 @@
 
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./My_Developer-Master-Resume.pdf)
 
+## �� Featured Projects
+
+| Project | Links |
+|---------|-------|
+| **Robot Motion Planner**<br>Natural language to MoveIt trajectory converter for robotics | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/Robot-Motion-Planner) [![Live Site](https://img.shields.io/badge/Live_Site-brightgreen?style=for-the-badge&logo=netlify)](https://robot-motion-planner.netlify.app/) |
+| **PTG-Forge**<br>AI-powered ROS2/Gazebo simulation environment generator | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/PTG-Forge) [![Live Site](https://img.shields.io/badge/Live_Site-brightgreen?style=for-the-badge&logo=netlify)](https://ptg-forge.netlify.app/) |
+| **Kensaku**<br>Academic research collaboration platform | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/Kensaku) [![Live Site](https://img.shields.io/badge/Live_Site-brightgreen?style=for-the-badge&logo=netlify)](https://kensaku.netlify.app/) |
+
 ## 🔭 I'm currently working on
 - **[KADD-AI](https://github.com/cronenberg64/KADD-AI)** - AI-powered steel defect detection system with KPI calculation and automated reporting
 - **[SnapRecipe](https://github.com/cronenberg64/SnapRecipe)** - Cross-platform mobile app that generates cooking recipes from food photos and social media links
 - **[Ichiba-Box](https://github.com/cronenberg64/Ichiba-Box)** - Comprehensive B2B platform connecting local businesses with customers in Japan
 - **[Bloom Business Hub](https://github.com/cronenberg64/Bloom-Business-Hub)** - AI-powered business operations platform for small businesses
-
-## 🚀 Featured Projects
-- **[Robot-Motion-Planner](https://github.com/cronenberg64/Robot-Motion-Planner)** ([Live Site](https://robot-motion-planner.netlify.app/)) - Natural language to MoveIt trajectory converter for robotics
-- **[PTG-Forge](https://github.com/cronenberg64/PTG-Forge)** ([Live Site](https://ptg-forge.netlify.app/)) - AI-powered ROS2/Gazebo simulation environment generator
-- **[Kensaku](https://github.com/cronenberg64/Kensaku)** ([Live Site](https://kensaku.netlify.app/)) - Academic research collaboration platform
 
 ## 🛠️ Tech Stack & Tools
 
