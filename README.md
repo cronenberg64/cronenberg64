@@ -20,9 +20,9 @@
 
 | Project | Links |
 |---------|-------|
-| **Robot Motion Planner**<br>Natural language to MoveIt trajectory converter for robotics | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/Robot-Motion-Planner) [![View Site](https://img.shields.io/badge/Try_App-1e90ff?style=for-the-badge&logo=netlify)](https://robot-motion-planner.netlify.app/) |
-| **PTG-Forge**<br>AI-powered ROS2/Gazebo simulation environment generator | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/PTG-Forge) [![View Site](https://img.shields.io/badge/Launch_Tool-28a745?style=for-the-badge&logo=netlify)](https://ptg-forge.netlify.app/) |
-| **Kensaku**<br>Academic research collaboration platform | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/Kensaku) [![View Site](https://img.shields.io/badge/View_Platform-ff69b4?style=for-the-badge&logo=netlify)](https://kensaku.netlify.app/) |
+| **Robot Motion Planner**<br>Natural language to MoveIt trajectory converter for robotics | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/Robot-Motion-Planner) [![View Site](https://img.shields.io/badge/View_Site-1e90ff?style=for-the-badge&logo=netlify)](https://robot-motion-planner.netlify.app/) |
+| **PTG-Forge**<br>AI-powered ROS2/Gazebo simulation environment generator | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/PTG-Forge) [![View Site](https://img.shields.io/badge/View_Site-28a745?style=for-the-badge&logo=netlify)](https://ptg-forge.netlify.app/) |
+| **Kensaku**<br>Academic research collaboration platform | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/Kensaku) [![View Site](https://img.shields.io/badge/View_Site-ff69b4?style=for-the-badge&logo=netlify)](https://kensaku.netlify.app/) |
 
 ## 🔭 I'm currently working on
 - **[KADD-AI](https://github.com/cronenberg64/KADD-AI)** - AI-powered steel defect detection system with KPI calculation and automated reporting
