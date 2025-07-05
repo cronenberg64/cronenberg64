@@ -4,7 +4,7 @@
 
 ## About Me  
 - I'm a student majoring in **Information System Science & Engineering** at **Ritsumeikan University** 
-- I'm interested in **AI/ML, Computer Vision, and Robotics** 
+- I'm interested in **AI/ML, NLP, and Robotics** 
 - Love reading books, working out, and watching anime in my spare time
 - Banner photo taken at Tanigawa Bridge, Kobe, Japan by me
 
@@ -29,6 +29,8 @@
 | **Robot Motion Planner**<br>Natural language to MoveIt trajectory converter for robotics | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/Robot-Motion-Planner) [![View Site](https://img.shields.io/badge/View_Site-1e90ff?style=for-the-badge&logo=netlify)](https://robot-motion-planner.netlify.app/) |
 | **PTG-Forge**<br>AI-powered ROS2/Gazebo simulation environment generator | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/PTG-Forge) [![View Site](https://img.shields.io/badge/View_Site-28a745?style=for-the-badge&logo=netlify)](https://ptg-forge.netlify.app/) |
 | **Kensaku**<br>Academic research collaboration platform | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/Kensaku) [![View Site](https://img.shields.io/badge/View_Site-ff69b4?style=for-the-badge&logo=netlify)](https://kensaku.netlify.app/) |
+| **QROS**<br>Intelligent ROS2 co-pilot suite for debugging and development | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/QROS) [![Try QROS](https://img.shields.io/badge/Try_QROS-00bfff?style=for-the-badge&logo=netlify)](https://qros.netlify.app) |
+| **Hydraulic Fault Dashboard**<br>Real-time hydraulic system fault prediction and monitoring dashboard | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/Hydraulic-Fault-Dashboard) [![View Dashboard](https://img.shields.io/badge/View_Dashboard-ffa500?style=for-the-badge&logo=netlify)](https://hydraulic-fault-dashboard.netlify.app) |
 
 ## 🔭 I'm currently working on
 - **[KADD-AI](https://github.com/cronenberg64/KADD-AI)** - AI-powered steel defect detection system with KPI calculation and automated reporting
@@ -85,6 +87,7 @@
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-011627?style=for-the-badge&logo=flydotio&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Game Development
