@@ -16,8 +16,12 @@
   <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-007bff?style=for-the-badge&logo=about-dot-me" alt="Portfolio Badge"/>
 </a>
 &nbsp;
-<a href="./My_Developer-Master-Resume.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Resume Badge"/>
+<a href="./My_Developer-CV.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="CV Badge"/>
+</a>
+&nbsp;
+<a href="./システムエンジニア履歴書.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/システムエンジニア履歴書-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Japanese Resume Badge"/>
 </a>
 
 </div>
