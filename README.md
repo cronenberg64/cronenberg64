@@ -26,21 +26,17 @@
 
 </div>
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
 | Project | Links |
 |---------|-------|
 | **Robot Motion Planner**<br>Natural language to MoveIt trajectory converter for robotics | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/Robot-Motion-Planner) [![View Site](https://img.shields.io/badge/View_Site-595959?style=for-the-badge&logo=netlify)](https://robot-motion-planner.netlify.app/) |
 | **PTG-Forge**<br>AI-powered ROS2/Gazebo simulation environment generator | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/PTG-Forge) [![View Site](https://img.shields.io/badge/View_Site-595959?style=for-the-badge&logo=netlify)](https://ptg-forge.netlify.app/) |
-| **Kensaku**<br>Academic research collaboration platform | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/Kensaku) [![View Site](https://img.shields.io/badge/View_Site-595959?style=for-the-badge&logo=netlify)](https://kensaku.netlify.app/) |
 | **QROS**<br>Intelligent ROS2 co-pilot suite for debugging and development | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/QROS) [![View Site](https://img.shields.io/badge/View_Site-595959?style=for-the-badge&logo=netlify)](https://qros.netlify.app) |
 | **Hydraulic Fault Dashboard**<br>Real-time hydraulic system fault prediction and monitoring dashboard | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/Hydraulic-Fault-Dashboard) [![View Site](https://img.shields.io/badge/View_Site-595959?style=for-the-badge&logo=netlify)](https://hydraulic-fault-dashboard.netlify.app) |
 
 ## 🔭 I'm currently working on
-- **[KADD-AI](https://github.com/cronenberg64/KADD-AI)** - AI-powered steel defect detection system with KPI calculation and automated reporting
-- **[SnapRecipe](https://github.com/cronenberg64/SnapRecipe)** - Cross-platform mobile app that generates cooking recipes from food photos and social media links
-- **[Ichiba-Box](https://github.com/cronenberg64/Ichiba-Box)** - Comprehensive B2B platform connecting local businesses with customers in Japan
-- **[Bloom Business Hub](https://github.com/cronenberg64/Bloom-Business-Hub)** - AI-powered business operations platform for small businesses
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -104,12 +100,6 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white)
-
-### Specialized Areas
-- **Computer Vision** - PPE Detection, Industrial Defect Detection, Quality Assessment Systems
-- **Cross-Platform Mobile Apps** - React Native & Flutter
-- **AI/ML Applications** - Image Classification, Object Detection
-- **B2B Applications** - Digital Storefronts, Research Collaboration Platforms
 
 ## 📊 GitHub Stats:
 
