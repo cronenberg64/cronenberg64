@@ -16,12 +16,8 @@
   <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-007bff?style=for-the-badge&logo=about-dot-me" alt="Portfolio Badge"/>
 </a>
 &nbsp;
-<a href="./My_Developer-CV.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="CV Badge"/>
-</a>
-&nbsp;
-<a href="./システムエンジニア履歴書.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/システムエンジニア履歴書-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Japanese Resume Badge"/>
+<a href="./Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20My%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="CV Badge"/>
 </a>
 
 </div>
@@ -31,12 +27,9 @@
 | Project | Links |
 |---------|-------|
 | **Robot Motion Planner**<br>Natural language to MoveIt trajectory converter for robotics | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/Robot-Motion-Planner) [![View Site](https://img.shields.io/badge/View_Site-595959?style=for-the-badge&logo=netlify)](https://robot-motion-planner.netlify.app/) |
-| **PTG-Forge**<br>AI-powered ROS2/Gazebo simulation environment generator | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/PTG-Forge) [![View Site](https://img.shields.io/badge/View_Site-595959?style=for-the-badge&logo=netlify)](https://ptg-forge.netlify.app/) |
-| **QROS**<br>Intelligent ROS2 co-pilot suite for debugging and development | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/QROS) [![View Site](https://img.shields.io/badge/View_Site-595959?style=for-the-badge&logo=netlify)](https://qros.netlify.app) |
-| **Hydraulic Fault Dashboard**<br>Real-time hydraulic system fault prediction and monitoring dashboard | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/Hydraulic-Fault-Dashboard) [![View Site](https://img.shields.io/badge/View_Site-595959?style=for-the-badge&logo=netlify)](https://hydraulic-fault-dashboard.netlify.app) |
-
-## 🔭 I'm currently working on
-
+| **Prompt to Gazebo Sandbox**<br>AI-powered ROS2/Gazebo simulation environment generator | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/Prompt_To_Gazebo_Sandbox) [![View Site](https://img.shields.io/badge/View_Site-595959?style=for-the-badge&logo=netlify)](https://ptg-forge.netlify.app/) |
+| **ROS Debug Toolkit**<br>Intelligent ROS2 co-pilot suite for debugging and development | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/ROS-debug-toolkit) [![View Site](https://img.shields.io/badge/View_Site-595959?style=for-the-badge&logo=netlify)](https://qros.netlify.app) |
+| **Hydraulic Systems Fault Detection Dashboard**<br>Real-time hydraulic system fault prediction and monitoring dashboard | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/hydraulic-systems-fault-detection-dashboard) [![View Site](https://img.shields.io/badge/View_Site-595959?style=for-the-badge&logo=netlify)](https://hydraulic-fault-dashboard.netlify.app) |
 
 ## 🛠️ Tech Stack & Tools
 
@@ -83,6 +76,8 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flaskt-20232A?style=for-the-badge&logo=flask&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
