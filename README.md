@@ -30,6 +30,7 @@
 | **Robot Motion Planner**<br>Natural language to MoveIt trajectory converter for robotics | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/Robot-Motion-Planner) [![View Site](https://img.shields.io/badge/View_Site-595959?style=for-the-badge&logo=netlify)](https://robot-motion-planner.netlify.app/) |
 | **Prompt to Gazebo Sandbox**<br>AI-powered ROS2/Gazebo simulation environment generator | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/Prompt_To_Gazebo_Sandbox) [![View Site](https://img.shields.io/badge/View_Site-595959?style=for-the-badge&logo=netlify)](https://ptg-forge.netlify.app/) |
 | **ROS Debug Toolkit**<br>Intelligent ROS2 co-pilot suite for debugging and development | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/ROS-debug-toolkit) [![View Site](https://img.shields.io/badge/View_Site-595959?style=for-the-badge&logo=netlify)](https://qros.netlify.app) |
+| **Emergent Multi-Agent Systems**<br>Framework for exploring emergent behavior in continuous-learning multi-agent environments | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/Emergent-Multi-Agent-Systems) |
 | **CLIP-mod**<br>Redesigned CLIP architecture replacing ViT with ConvNeXt V2 for improved efficiency and inference speed | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/CLIP-mod) |
 | **Semantic-Memory-Graph**<br>Cognitive architecture inspired graph system with evolving nodes and emergent concept formation | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/semantic-memory-graph) |
 | **VLM-arch**<br>Systematic benchmarking of vision backbones under small-data constraints | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/VLM-arch) |
@@ -68,9 +69,12 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Genkit](https://img.shields.io/badge/Genkit-000000?style=for-the-badge&logo=genkit&logoColor=white)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-000000?style=for-the-badge&logo=openai&logoColor=white)
+![PettingZoo](https://img.shields.io/badge/PettingZoo-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCLIP](https://img.shields.io/badge/OpenCLIP-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-000000?style=for-the-badge&logo=networkx&logoColor=white)
 
 ### Robotics & Simulation
