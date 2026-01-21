@@ -34,6 +34,8 @@
 | **CLIP-mod**<br>Redesigned CLIP architecture replacing ViT with ConvNeXt V2 for improved efficiency and inference speed | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/CLIP-mod) |
 | **Semantic-Memory-Graph**<br>Cognitive architecture inspired graph system with evolving nodes and emergent concept formation | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/semantic-memory-graph) |
 | **VLM-arch**<br>Systematic benchmarking of vision backbones under small-data constraints | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/VLM-arch) |
+| **CLI-chat-app**<br>A TCP-based command line chat application supporting direct messaging, file transfer, and channels with concurrent client handling. | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/CLI-chat-app) |
+| **ergo-api**<br>A zero-trust API gateway written in Go, featuring real-time anomaly detection, OPA policy enforcement, and JWT-based identity validation. | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/ergo-api) |
 
 ## 🛠️ Tech Stack & Tools
 
