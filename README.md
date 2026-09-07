@@ -3,10 +3,11 @@
 </div>
 
 ## About Me  
-- I'm a student majoring in **Information System Science & Engineering** at **Ritsumeikan University** 
-- I'm interested in **AI/ML, NLP, and Robotics** 
+- Hi! I'm Jonathan, a student majoring in **Information Systems Science and Engineering** at **Ritsumeikan University** 
+- I enjoy challenging myself in robotics, SciML, and computer vision related fields.
 - Love reading books, working out, and watching anime in my spare time
 - Banner photo taken at Tanigawa Bridge, Kobe, Japan by me
+- Open to discussing collaborative research or projects in robotics or SciML
 
 ## 🌐 Portfolio
 
@@ -16,7 +17,7 @@
   <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-007bff?style=for-the-badge&logo=about-dot-me" alt="Portfolio Badge"/>
 </a>
 &nbsp;
-<a href="./resume_16-3-2026.pdf" target="_blank">
+<a href="./resume_10-7-2026.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Download%20My%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="CV Badge"/>
 </a>
 
@@ -28,6 +29,7 @@
 
 | Project | Links |
 |---------|-------|
+| **Foveated Teleoperation Task-based Study**<br>A Unity-based teleoperation system for Pioneer robots featuring gaze-contingent foveated streaming to optimize perceptual quality and bandwidth. | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/PBL5_FoveatedTeleoperation) |
 | **EFT-VPR**<br>Event Forecasting Transformer improving Recall@1 by **13.8%** via 8-head autoregressive modeling and InfoNCE contrastive learning. | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/EFT-VPR) |
 | **AESP**<br>Numba-accelerated Poisson filtering delivering **+13.82 dB SNR gain** and **37.8% bandwidth reduction** for event-stream signal processing. | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/AESP) |
 | **Scientific Abstract Classifier (SciBERT-CTFT)**<br>SciBERT + SetFit classification pipeline strengthened with context-injection augmentation for more robust scientific abstract categorization. | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/SciBERT-CTFT) |
@@ -38,8 +40,6 @@
 | Project | Links |
 |---------|-------|
 | **ergo-api**<br>Built a zero-trust Go API gateway with real-time anomaly detection, OPA policy enforcement, and JWT identity validation for hardened service access. | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/ergo-api) |
-| **Prompt to Gazebo Sandbox**<br>Engineered an AI-driven ROS2/Gazebo environment generator that compresses robotics simulation setup from prompt to runnable workspace. | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/Prompt_To_Gazebo_Sandbox) [![View Site](https://img.shields.io/badge/View_Site-595959?style=for-the-badge&logo=netlify)](https://ptg-forge.netlify.app/) |
-| **CLI-chat-app**<br>Implemented a concurrent TCP chat system with direct messaging, channels, and file transfer for multi-client command-line communication. | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/CLI-chat-app) |
 | **Smart Re-Identification System for Stray Cats (Post-TNR)**<br>Delivered a React Native + Siamese re-identification platform to reduce redundant treatments through repeat-cat matching in field operations. | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cronenberg64/PBL3_GroupH) [![Docs Site](https://img.shields.io/badge/Docs_Site-595959?style=for-the-badge&logo=hugo)](https://xknt21.github.io/) |
 
 ## 🛠️ Tech Stack & Tools
@@ -82,6 +82,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Fedora Linux](https://img.shields.io/badge/Fedora_Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-000000?style=for-the-badge&logo=ruff&logoColor=white)
@@ -90,7 +91,6 @@
 ### Miscellaneous
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -110,7 +110,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=61DAFB)
-![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## 📊 GitHub Stats:
