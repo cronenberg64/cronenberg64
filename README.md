@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-007bff?style=for-the-badge&logo=about-dot-me" alt="Portfolio Badge"/>
 </a>
 &nbsp;
-<a href="./resume_10-7-2026.pdf" target="_blank">
+<a href="./resume_13-9-2026.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Download%20My%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="CV Badge"/>
 </a>
 
